@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.90474c47.chunk.css",
+    "main.js": "/portafolio/static/js/main.ced7cb50.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.ced7cb50.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.1d39578f.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.1d39578f.js.map",
+    "static/js/2.9c49240d.chunk.js": "/portafolio/static/js/2.9c49240d.chunk.js",
+    "static/js/2.9c49240d.chunk.js.map": "/portafolio/static/js/2.9c49240d.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "precache-manifest.01e9206739437d80bad17b0137edd8a7.js": "/portafolio/precache-manifest.01e9206739437d80bad17b0137edd8a7.js",
+    "service-worker.js": "/portafolio/service-worker.js",
+    "static/css/main.90474c47.chunk.css.map": "/portafolio/static/css/main.90474c47.chunk.css.map",
+    "static/js/2.9c49240d.chunk.js.LICENSE.txt": "/portafolio/static/js/2.9c49240d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portafolio/static/media/code-coding-computer-data-574071.489a811c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d39578f.js",
+    "static/js/2.9c49240d.chunk.js",
+    "static/css/main.90474c47.chunk.css",
+    "static/js/main.ced7cb50.chunk.js"
+  ]
+}
